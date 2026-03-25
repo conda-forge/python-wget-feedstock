@@ -5,7 +5,7 @@ package:
   version: "{{ version }}"
 
 source:
-  url: https://pypi.io/packages/source/w/wget/wget-{{ version }}.zip
+  url: https://pypi.org/packages/source/w/wget/wget-{{ version }}.zip
   sha256: 35e630eca2aa50ce998b9b1a127bb26b30dfee573702782aa982f875e3f16061
 
 build:
@@ -17,6 +17,7 @@ requirements:
   build:
     - python {{ python_min }}
     - pip
+    - setuptools
   run:
     - python >={{ python_min }}
 
