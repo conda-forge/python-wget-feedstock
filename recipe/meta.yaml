@@ -2,7 +2,7 @@
 
 package:
   name: python-wget
-  version: {{ version }}
+  version: "{{ version }}"
 
 source:
   url: https://pypi.io/packages/source/w/wget/wget-{{ version }}.zip
