@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-wget-fee
 
 Home: http://bitbucket.org/techtonik/python-wget/
 
-Package license: Public Domain
+Package license: MIT
 
 Summary: pure python download utility
 
