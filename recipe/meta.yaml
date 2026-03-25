@@ -33,6 +33,7 @@ test:
 about:
   home: http://bitbucket.org/techtonik/python-wget/
   license: MIT
+  license_file: LICENSE
   summary: 'pure python download utility'
 
 extra:
