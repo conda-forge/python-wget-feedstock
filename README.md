@@ -1,6 +1,9 @@
 About python-wget
 =================
 
+> [!WARNING]
+> **python-wget is no longer maintained upstream.** The last upstream release of `wget` was 3.2 on 2015-10-22. Development has stopped. This feedstock stays available for existing users, but no new versions are expected.
+
 Home: http://bitbucket.org/techtonik/python-wget/
 
 Package license: Public Domain
